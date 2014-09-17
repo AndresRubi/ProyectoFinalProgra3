@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1410893449 source:/home/arubi/Documents/CodeBlocks/test2Allegro5/main.cpp
+	<iostream>
+	"screenmanager.h"
+	"inputmanager.h"
+	<allegro5/allegro_native_dialog.h>
+
+1410895611 /home/arubi/Documents/CodeBlocks/test2Allegro5/screenmanager.h
+	<iostream>
+	<string>
+	"gamescreen.h"
+	"splashscreen.h"
+	"titlescreen.h"
+	<allegro5/allegro.h>
+
+1410895611 source:/home/arubi/Documents/CodeBlocks/test2Allegro5/screenmanager.cpp
+	"screenmanager.h"
+
+1410892325 source:/home/arubi/Documents/CodeBlocks/test2Allegro5/gamescreen.cpp
+	"gamescreen.h"
+
+1410896678 /home/arubi/Documents/CodeBlocks/test2Allegro5/gamescreen.h
+	<allegro5/allegro.h>
+	"inputmanager.h"
+
+1410885458 source:/home/arubi/Documents/CodeBlocks/test2Allegro5/inputmanager.cpp
+	"inputmanager.h"
+
+1410885424 /home/arubi/Documents/CodeBlocks/test2Allegro5/inputmanager.h
+	<allegro5/allegro.h>
+	<allegro5/keyboard.h>
+	<vector>
+
+1410896722 /home/arubi/Documents/CodeBlocks/test2Allegro5/splashscreen.h
+	"screenmanager.h"
+	"inputmanager.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1410895611 source:/home/arubi/Documents/CodeBlocks/test2Allegro5/splashscreen.cpp
+	"splashscreen.h"
+
+1410896301 /home/arubi/Documents/CodeBlocks/test2Allegro5/titlescreen.h
+	"screenmanager.h"
+	"inputmanager.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1410894168 source:/home/arubi/Documents/CodeBlocks/test2Allegro5/titlescreen.cpp
+	"titlescreen.h"
+
+1410905855 source:/home/arubi/Documents/CodeBlocks/test2Allegro5/animation.cpp
+	"animation.h"
+
+1410905955 /home/arubi/Documents/CodeBlocks/test2Allegro5/animation.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<string>
+	"inputmanager.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+
